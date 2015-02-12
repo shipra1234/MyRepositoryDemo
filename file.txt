@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 welcome
 jfckdhf
 mndjhbcj
 dcdknjc,
 dncjnmkck
 dmncn
+=======
+hellooo
+ncdjkncf
+dncjncm
+dncjkndm,c
+mcdkcm,
+>>>>>>> master
